@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bmi</string>
+    <string name="weight_description">Enter weight in kilograms</string>
+    <string name="weight_hint">Enter weight</string>
+    <string name="height_description">Enter height in meter</string>
+    <string name="height_hint">Enter height</string>
 </resources>
